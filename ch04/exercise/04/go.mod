@@ -1,3 +1,3 @@
-module 04
+module main
 
 go 1.27.4
